@@ -1,0 +1,11 @@
+name: SuperFart
+version: '${project.version}'
+main: me.eranspigel.superfart.SuperFart
+api-version: '1.20'
+commands:
+  superfart:
+    description: A super fart
+  setcooldown:
+    description: Set the cooldown for activte super fart
+  setblastpower:
+    description: Set the power for the blast of super fart
